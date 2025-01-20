@@ -7,10 +7,12 @@ import Clients from './sections/Clients'
 import Contact from './sections/Contact'
 import Footer from './sections/Footer'
 import WorkExperience from './sections/WorkExperience'
+import { Analytics } from "@vercel/analytics/react"
 
 const App = () => {
   return (
     <main className= "max-w-7xl mx-auto" >
+      <Analytics />
       <Navbar />
       <Hero />
       <About />
