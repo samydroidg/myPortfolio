@@ -15,6 +15,7 @@
     "@react-three/drei": "^9.120.6",
     "@react-three/fiber": "^8.17.12",
     "@vercel/analytics": "^1.4.1",
+    "@vercel/speed-insights": "^1.1.0",
     "git": "^0.1.5",
     "github": "^14.0.0",
     "gsap": "^3.12.5",

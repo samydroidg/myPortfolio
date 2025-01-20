@@ -8,11 +8,13 @@ import Contact from './sections/Contact'
 import Footer from './sections/Footer'
 import WorkExperience from './sections/WorkExperience'
 import { Analytics } from "@vercel/analytics/react"
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 const App = () => {
   return (
     <main className= "max-w-7xl mx-auto" >
       <Analytics />
+      <SpeedInsights />
       <Navbar />
       <Hero />
       <About />
