@@ -28,7 +28,7 @@ export const navLinks = [
       position: 'Marketing Director at GreenLeaf',
       img: 'assets/review1.png',
       review:
-        'Working with Gourv was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.',
+        'Working with Gourav was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.',
     },
     {
       id: 2,
